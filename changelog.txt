@@ -4,3 +4,4 @@ Version | Cell ID  | Cell Name
 --------------------------------------------------
 V0.01   | 0009087E | Wilson Atomatoys Corporate HQ
 V0.02   | 0004542D | Hubris Comics
+V0.03   | 000320A2 | Super Duper Mart
