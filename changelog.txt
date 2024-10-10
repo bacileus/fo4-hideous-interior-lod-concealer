@@ -6,3 +6,4 @@ V0.01   | 0009087E | Wilson Atomatoys Corporate HQ
 V0.02   | 0004542D | Hubris Comics
 V0.03   | 000320A2 | Super Duper Mart
 V0.04   | 0001FA25 | Cambridge Police Station
+V0.10   | -        | Notes: Redone entire mod! Models are directly replaced by vanilla opaque versions.
