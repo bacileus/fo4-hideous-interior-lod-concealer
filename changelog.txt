@@ -1,9 +1,25 @@
-CELLS FIXED CHANGELOG
+CHANGELOG
 
-Version | Cell ID  | Cell Name
---------------------------------------------------
-V0.01   | 0009087E | Wilson Atomatoys Corporate HQ
-V0.02   | 0004542D | Hubris Comics
-V0.03   | 000320A2 | Super Duper Mart
-V0.04   | 0001FA25 | Cambridge Police Station
-V0.10   | -        | Notes: Redone entire mod! Models are directly replaced by vanilla opaque versions.
+V0.01
+    - Added new GlassGlowExt01Opaque.BGEM material.
+    - Replaced HitWindowGlass02 & HitWindowGlass03 for non broken HitWindowGlass01 variant.
+    - Fixed Wilson Atomatoys Corporate HQ.
+
+V0.02
+    - Fixed Hubris Comics.
+    - Added new panels to cover open ceiling.
+
+V0.03
+    - Fixed Super Duper Mart.
+
+V0.04
+    - Cambridge Police Station.
+
+V0.10
+    - Redone most of the mod. Transparent models are directly replaced by vanilla opaque versions. Only new panels are to be added.
+    - Removed added materials.
+    - Replaced BldGlassTransExt01 for non transparent BldGlassTransExt01Opaque variant.
+    - Replaced HitWindowGlass01 for non transparent HitWindowGlass01Fogged version.
+
+V0.11
+    - Added new panels to Super Duper Mart.
