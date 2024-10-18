@@ -23,3 +23,6 @@ V0.10
 
 V0.11
     - Added new panels to Super Duper Mart.
+
+V0.12
+    - Moved location of Concord's Museum of Freedom.
