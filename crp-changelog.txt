@@ -1,0 +1,5 @@
+CRP CHANGELOG
+
+V0.13
+    - Added new CRP.esp to the repo.
+    - Resolved conflicts added by Nuka Project, Chem Redux, Components Redone & Transparent Institute Cleanroom Suit.
